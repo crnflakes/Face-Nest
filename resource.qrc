@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Background">
+    <file>ResourceImage/c8e6d97ea4528ed4a52b5e9fbdd36f77.png</file>
+    <file>ResourceImage/Abstract 1.png</file>
+    <file>ResourceImage/Abstract 1.png</file>
+    <file>ResourceImage/Abstract 2.png</file>
+  </qresource>
+  <qresource prefix="Icon">
+    <file>ResourceImage/Icon.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Background">
+    <file>ResourceImage/abstract-close-up-displacements--dual-monitor-wallpaper.jpg</file>
+  </qresource>
+  <qresource prefix="Icon">
+    <file>ResourceImage/Icon.png</file>
+  </qresource>
+</RCC>
