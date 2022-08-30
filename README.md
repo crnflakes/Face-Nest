@@ -8,5 +8,7 @@ Libraries:
 - opencv
 - pandas
 
+
+Main face recognition code/component studentpage.py
 how to run the code:
 run Landingwindow.py
